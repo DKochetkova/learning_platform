@@ -1,4 +1,4 @@
-# learning_platform_app
+# e-learning Platform
 
 A new Flutter project.
 
